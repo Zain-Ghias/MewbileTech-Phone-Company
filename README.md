@@ -16,8 +16,6 @@ If you are an employer or interested party and would like access, please **reach
 ✅ **Billing System** – Calculates monthly bills based on contract types (**Term, Month-to-Month, Prepaid**).\
 ✅ **Call Filtering** – Supports filtering by **customer, location, duration**, and more.\
 ✅ **Visualization** – Uses `pygame` to display call connections on a real **Toronto map**.\
-✅ **Parallel Processing (Optional Task)** – Experimented with threading to improve performance.
-
 ---
 
 ## **Screenshots**
