@@ -15,7 +15,7 @@ If you are an employer or interested party and would like access, please **reach
 ✅ **Call Data Processing** – Reads a dataset of historical calls and organizes customer information.\
 ✅ **Billing System** – Calculates monthly bills based on contract types (**Term, Month-to-Month, Prepaid**).\
 ✅ **Call Filtering** – Supports filtering by **customer, location, duration**, and more.\
-✅ **Visualization** – Uses `pygame` to display call connections on a real **Toronto map**.\
+✅ **Visualization** – Uses `pygame` to display call connections on a real **Toronto map**.
 ---
 
 ## **Screenshots**
